@@ -14,7 +14,7 @@ The application is built with **Streamlit** and provides real-time predictions b
 ## 📊 Key Insights & Data Analysis
 Before building the model, I conducted a deep-dive analysis using SQL to identify the most predictive features.
 
-> **[📂 Click here to view the Full SQL Pipeline & Analysis Report](sql_analysis/)**
+> **[📂 Click here to view the Full SQL Pipeline & Analysis Report](SQL_Analysis/)**
 
 **Summary of Discovery:**
 * **The "Hidden" Feature:** While `Radius` is the obvious indicator, my analysis revealed that **`Concavity`** (surface irregularity) is a critical differentiator for malignant tumors.
